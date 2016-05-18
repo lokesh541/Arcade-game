@@ -2,7 +2,7 @@
 
 * open **index.html** file with chrome browser
 
-** how to use the application?**
+**how to use the application?**
 
 * Use  'up' arrow  button to move  forward
 * Use  'down' arrow button to move backward
