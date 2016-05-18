@@ -1,6 +1,10 @@
-frontend-nanodegree-arcade-game
-===============================
+**How  to run the application ?**
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+* open **index.html** file with chrome browser
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+** how to use the application?**
+
+* Use  'up' arrow  button to move  forward
+* Use  'down' arrow button to move backward
+* Use 'left' arrow button to move left
+* Use 'Right' arrow button to move right
