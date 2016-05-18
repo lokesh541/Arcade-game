@@ -1,6 +1,6 @@
 **How  to run the application ?**
 
-* open **index.html** file with chrome browser
+* open **index.html** file with chrome browser (or your favourite browser)
 
 **how to use the application?**
 
