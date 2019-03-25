@@ -106,10 +106,10 @@
     var player = new Player(50, 320);
     var enemy1 = new Enemy(10, 70, 100);
     var enemy2 = new Enemy(10, 150, 110);
-//     var enemy3 = new Enemy(10, 230, 120);
-//     var enemy4 = new Enemy(250, 70, 120);
-//     var enemy5 = new Enemy(250, 150, 110);
-//     var enemy6 = new Enemy(250, 230, 100);
+    var enemy3 = new Enemy(10, 230, 120);
+    var enemy4 = new Enemy(100, 70, 120);
+    var enemy5 = new Enemy(100, 150, 110);
+    var enemy6 = new Enemy(100, 230, 100);
     var allEnemies = [enemy1, enemy2, enemy3, enemy4, enemy5, enemy6];
 
 
